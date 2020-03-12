@@ -25,7 +25,7 @@ camel.springboot:
 #
 #
 amqp:
-  url: amqmessaging:5672
+  url: amqp://amqmessaging:5672
   username: admin
   password: admin
 
